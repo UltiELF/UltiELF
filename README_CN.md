@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="documents/images/logo.png" , alt="logo" />
+    <img src="documents/images/logo_256x256.png" , alt="logo" />
     <h1>UltiELF</h1>
     <a
         href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XZB6BqBhkGX9RI8lNIvPRQpqjIHYDCpZ&authKey=OPmC%2FnGNXThLAV7IKmEQ57uiQCTfb8EraImxCWzVgq9%2FmdgxGU6rA3wZB%2BbCVxjq&noverify=0&group_code=284938376">
