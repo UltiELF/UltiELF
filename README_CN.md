@@ -16,7 +16,7 @@
 ## 联系我们
 
 - QQ群: 284938376
-- 仓库: [Gitee](https://gitee.com/UltiELF), [GitHub](https://github.com/trajectronix/UltiELF)
+- 仓库: [Gitee](https://gitee.com/UltiELF), [GitHub](https://github.com/UltiELF)
 
 ## 介绍
 

@@ -16,7 +16,7 @@
 ## Contact Us
 
 - QQ: 284938376
-- repositories: [Gitee](https://gitee.com/UltiELF), [GitHub](https://github.com/trajectronix/UltiELF)
+- repositories: [Gitee](https://gitee.com/UltiELF), [GitHub](https://github.com/UltiELF)
 
 ## Introduce
 
