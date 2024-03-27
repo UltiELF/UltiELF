@@ -7,7 +7,7 @@
     </a>
     <a
         href="https://discord.gg/xkvGy79e">
-        <img src="https://img.shields.io/badge/chat-on%20Discord-red.svg" , alt="Discord" />
+        <img src="https://img.shields.io/badge/chat-on%20Discord-purple.svg" , alt="Discord" />
     </a>
 </div>
 
